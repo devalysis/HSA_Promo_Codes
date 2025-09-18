@@ -1,0 +1,5 @@
+{
+  "BIRTHDAY": { "rewardType": "gems", "amount": 100 },
+  "EVENT": { "rewardType": "gold", "amount": 5000 },
+  "10002": { "rewardType": "skin", "skinId": "dragon" }
+}
