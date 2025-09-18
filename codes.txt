@@ -3,4 +3,5 @@ EVENT:gold:5500
 BOOSTER:gold:4500
 082825:gold:2000
 TEST:gems:500
+NEWTEST:gems:500
 
