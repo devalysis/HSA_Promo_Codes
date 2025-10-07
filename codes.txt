@@ -2,3 +2,4 @@ BIRTHDAY:gems:2000
 EVENT:gold:5500
 BOOSTER:gold:4500
 082825:gold:2000 
+1964:killstat:100000
