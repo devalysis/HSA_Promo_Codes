@@ -4,3 +4,4 @@ BOOSTER:gold:4500
 082825:gold:2000 
 1965:killstat:100000
 AT0MIC:skin:Atomic
+Atom:skin:Atomic
