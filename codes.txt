@@ -5,4 +5,5 @@ BOOSTER:gold:4500
 1965:killstat:100000
 AT0MIC:skin:Atomic
 Atom:skin:Atomic
-Rainbow:skin:Rainbow
+ICECUBES:skin:IceCubes
+VOLCANO:skin:Volcanic
