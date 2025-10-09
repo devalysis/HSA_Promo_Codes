@@ -6,3 +6,4 @@ BOOSTER:gold:4500
 ICECUBES:skin:IceCubes
 VOLCANO:skin:Volcanic
 CHERRY:skin:CherrySoda
+100KHELPER:gold:100000
