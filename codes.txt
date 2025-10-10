@@ -8,3 +8,4 @@ VOLCANO:skin:Volcanic
 CHERRY:skin:CherrySoda
 100KHELPER:gold:100000
 Temp:skin:Dragon
+Temp2:skin:StripeWave
